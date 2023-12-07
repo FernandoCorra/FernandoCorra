@@ -10,8 +10,7 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
     
-  
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Contact me**</h1>
     <a href = "mailto: fernandoworkcorra@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
